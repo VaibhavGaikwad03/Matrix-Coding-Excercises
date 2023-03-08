@@ -28,7 +28,7 @@ class Array
     ~Array();
     void accept();
     void display();
-};
+}; 
 
 Array::Array(int iRows, int iColumns)                                       //to allocating the resources
 {
