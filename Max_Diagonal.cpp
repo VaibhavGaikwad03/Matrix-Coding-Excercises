@@ -10,7 +10,7 @@ Input :
 3   9   7   5
 
 Output : 9
-
+ 
 */
 
 #include<iostream>
