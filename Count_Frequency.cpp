@@ -3,7 +3,7 @@
 Write a program which  accept matrix and one number from user and return frequency of that number.
 
 Input : 9
-
+ 
 3   2   5   9
 4   3   2   2
 8   4   1   9
