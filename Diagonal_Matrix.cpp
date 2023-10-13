@@ -2,7 +2,7 @@
 The below code is of Diagonal Matrix. It is a matix which contains non-zero values in diagonal and remaining values are zeros.
 Below i have written optimized code for Diagonal Matrix which uses less memory. 
 */
-
+ 
 #include <iostream>
 using std::cout;
 using std::endl;
