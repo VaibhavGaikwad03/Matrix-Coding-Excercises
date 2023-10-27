@@ -4,7 +4,7 @@ Write a program which accepts matrix from user and check whether the matix is sp
 
 Sparse matrix is a matrix with the majority of its elements equal to zero.
 
-Input : 
+Input :  
 
 1   0   3   0
 0   6   0   0
